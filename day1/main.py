@@ -97,3 +97,5 @@ del my_dict["city"]
 # Iterating through the dictionary
 for key, value in my_dict.items():
     print(key, ":", value)
+
+# test
