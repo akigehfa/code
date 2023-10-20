@@ -2,7 +2,7 @@
 
 # print(test.calculate(10, 5))
 # print(test.testVar)
-# test.Trial('Derta')
+# test.Trial('rta')
 
 # import pkgmodule.module1 as greeting
 
